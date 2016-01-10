@@ -1,0 +1,1 @@
+ctrtool -p --exefs=exefs.bin --romfs=romfs.bin 0004000000086400.cxi
